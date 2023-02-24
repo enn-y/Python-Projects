@@ -7,4 +7,4 @@
 - Project 2:
 - Project 3:
 
-![alt text](https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBS9TX8s0CVT9EC3ugaIIuEQxTxZTULdAqg&usqp=CAU)
