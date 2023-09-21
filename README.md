@@ -1,12 +1,12 @@
 **Python Projects**
 ---
-- Within this repository includes the Python projects that I've worked on in my free time
+- This repository includes the Python projects that I've worked on in my free time
 
 ---
-- Project 1: Game of BlackJack or 21, poker game
-- Project 2: Game of Higher or Lower, guessing game
+- Project 1: Game of BlackJack or 21, a poker game
+- Project 2: Game of Higher or Lower, a guessing game
 - Project 3: Mile to Kilometers Converter
-- Project 4: Object Oriented Project on a Coffee Machine
+- Project 4: Object-Oriented Project on a Coffee Machine
 - Project 5: Game of Pong using OOP
 - Project 6: Search Algorithms (BFS and DFS)
 - Project 7: Turtle Crossing Game using OOP
